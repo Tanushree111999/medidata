@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "81312451304",
+    "project_id": "sentiment-analysis-fbaa3",
+    "storage_bucket": "sentiment-analysis-fbaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81312451304:android:e5fa2b4d4786f64052575d",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.codelabs.medidata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81312451304-38deggu72nto5ouh145plm296snfe4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUafgKIW4J_ETyRMwJ2Zmw5as-vFQeG9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81312451304-38deggu72nto5ouh145plm296snfe4va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81312451304:android:aac4c39bba7d5d6e52575d",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.codelabs.textclassification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81312451304-38deggu72nto5ouh145plm296snfe4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUafgKIW4J_ETyRMwJ2Zmw5as-vFQeG9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81312451304-38deggu72nto5ouh145plm296snfe4va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
